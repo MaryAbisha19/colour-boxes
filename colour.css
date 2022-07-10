@@ -1,0 +1,281 @@
+@media(min-width: 810px){
+        .Box1
+        {
+            height: 50px;
+            width:29.75%;
+            background: red;
+            margin-top: 0px;
+            margin-bottom:0px;
+            margin-right: 0px;
+            margin-left:0px;
+            display:inline-block;
+        
+        }
+        .Box2
+        {
+            height: 50px;
+            width:69.75%;
+            background: blue;
+            margin-top: 0px;
+            margin-right:0px;
+            margin-left:0px;
+            margin-bottom:0px;
+            display:inline-block;
+        }
+        .Box3
+        {
+            height:75px;
+            width:100%;
+            background:yellow;
+            margin-top:5px;
+            margin-left:0px;
+            margin-right: 0px;
+            margin-bottom:5px;
+        
+        }
+        .Box4
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-top:5px;
+            margin-bottom:5px;
+            background:green;
+    
+        }
+        .Box5
+        {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-top:5px;
+        margin-bottom:5px;
+        background:purple;
+        }
+        .Box6
+        {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-top:5px;
+        margin-bottom:5px;
+        background:violet;
+        }
+        .Box7
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:orangered
+        }
+        .Box8
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:yellowgreen;
+        
+        }
+        .Box9
+        {
+            height:25px;
+            width:49.75%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:green;
+            display:inline-block;
+        }
+        .Box10
+        {
+            height:25px;
+            width:49.75%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:seagreen;
+            display:inline-block;
+        }
+        .Box11
+        {
+            height:25px;
+            width:49.75%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:brown;
+            display:inline-block;
+        }
+        .Box12
+        {
+            height:25px;
+            width:49.75%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:blue;
+            display:inline-block;
+        }
+        .Box13
+        {
+            height:20px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:black;
+
+        }
+    }
+        @media(min-width: 300px){
+            
+        .Box1
+        {
+            height: 50px;
+            width:100%;
+            background: red;
+            margin-top: 0px;
+            margin-bottom:0px;
+            margin-right: 0px;
+            margin-left:0px;
+            display:inline-block;
+        
+        }
+        .Box2
+        {
+            height: 50px;
+            width:100%;
+            background: blue;
+            margin-top: 0px;
+            margin-right:0px;
+            margin-left:0px;
+            margin-bottom:0px;
+            display:inline-block;
+        }
+        .Box3
+        {
+            height:75px;
+            width:100%;
+            background:yellow;
+            margin-top:5px;
+            margin-left:0px;
+            margin-right: 0px;
+            margin-bottom:5px;
+        
+        }
+        .Box4
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-top:5px;
+            margin-bottom:5px;
+            background:green;
+    
+        }
+        .Box5
+        {
+        height:50px;
+        width:100%;
+        margin-left:0px;
+        margin-right:0px;
+        margin-top:5px;
+        margin-bottom:5px;
+        background:purple;
+        }
+       
+        .Box7
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:orangered
+        }
+        .Box8
+        {
+            height:50px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:yellowgreen;
+        
+        }
+        .Box9
+        {
+            height:25px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:green;
+            display:inline-block;
+        }
+        .Box10
+        {
+            height:25px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:seagreen;
+            display:inline-block;
+        }
+        .Box11
+        {
+            height:25px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:brown;
+            display:inline-block;
+        }
+        .Box12
+        {
+            height:25px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:blue;
+            display:inline-block;
+        }
+        .Box13
+        {
+            height:20px;
+            width:100%;
+            margin-left:0px;
+            margin-right:0px;
+            margin-bottom:5px;
+            margin-top:5px;
+            background:black;
+
+        }
+    }
+    
+        
+        
